@@ -3,32 +3,66 @@
 Welcome! This is a collection of lighting mods created and/or updated by [blanksim](https://blanksim.tumblr.com). Read through this document and if you have any questions, feel free to reach out to me on my blog!<br><br>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8XEK7)
 
-## Getting Started
+### Navigation
+    [Installation Guide](https://github.com/ts4cc/lighting-mods/tree/intialize#installation-guide)
+    [Frequently Asked Questions](https://github.com/ts4cc/lighting-mods/tree/intialize#frequently-asked-questions)
+    [Previews](https://github.com/ts4cc/lighting-mods/tree/intialize#previews)
+
 ## Installation Guide
 
-<b>BACK UP YOUR FILES FIRST</b>
+<b>BACK UP YOUR FILES FIRST</b><br>
+
+### How to Download the Files
+In the upper right of this screen, there's a bright green button that says `clone or download`. Click that and select "Download as ZIP".
+
+### Installing on Mac
+
+1. Go to `Applications`, find The Sims 4, then left click and select "show  package contents". Follow the PC instructions below starting from step 2.
+
+### Installing on PC
+
+1. Navigate to wherever you’ve installed Sims 4 on your machine. For me, this is `C:\PROGRAM FILES (X86)\ORIGIN GAMES\THE SIMS 4`
+    - Here, you’ll see some folders, but we only care about **DATA AND DELTA**. Data is where information for the base game is stored, and delta is for expansion/game/stuff packs. You’ll notice that these files correspond to the files in the lighting mod.
+    - **IMPORTANT** Before moving on to the next step, I want to emphasize how important it is that you don't copy paste full folders, only the `.world ` files you want to replace. These lighting mod downloads only contain the files needed for the worlds, but if you were to replace the `EP01` folder, you'd lose all of the build data for that expansion pack which - from what I know - will prevent your game from even opening. Just copy/paste the world files, okay? okay.
+2. To install the base game files, **IN YOUR GAME FILES AND THE LIGHTING MOD FILES**, navigate to `data\shared\worlds\areas`, copy the files from the lighting mods folder, paste them into the game files folder, and replace the files when prompted.
+3. To install the DLC files, go into DELTA folder, then the folder for the EP/GP you want, then `shared/worlds/areas`, then copy/paste like you did with the base game files. Here’s a list of each ep/gp and their worlds:
+   - EP01; Get to Work - police station, sixam, hospital, secret lab, magnolia promenade
+   - EP02; Get Together -  windenburg
+   - EP03; City Living - san myshuno
+   - EP04; Cats & Dogs - brindleton bay
+   - EP06; Get Famous - del sol valley
+   - EP07; Island Living - sulani
+   - GP01; Outdoor Retreat - granite falls
+   - GP04; Vampires - forgotten hollow
+   - GP06; Jungle Adventure - el selvadorada 
+ 4. **To Uninstall** the lighting mods, just replace the lighting mod files with the ones you backed-up prior to installing (hope ya did that), or repair your game through origin. 
 
 ## Frequently Asked Questions
 
 ### Are the mods compatible with reshade?
-- Yes! Reshade is something completely separate, and you can have both in your game at the same time.
+Yes! Reshade is something completely separate, and you can have both in your game at the same time.
 
 ### Can I have multiple lighting mods in my game at once?
-- Yes and no. You can mix lighting mods (twinkle toes in rural windenburg and no blu in the bluffs) but you can't apply two lighting mods to the same world file since you can only have one of each file in your game at a time.
+Yes and no. You can mix lighting mods (twinkle toes in rural windenburg and no blu in the bluffs) but you can't apply two lighting mods to the same world file since you can only have one of each file in your game at a time.
 
 ### Is { INSERT MOD HERE } compatible with the most recent patch?
-- Check the commit history, you'll see what version the mods are on and these versions correspond to the most recent compatible patch version!
+Check the commit history, you'll see what version the mods are on and these versions correspond to the most recent compatible patch version!
 
 ### Will you update { OTHER PERSON'S MOD }?
-- No, the mods I've kept updated in this repo are the only ones I care to update.
+No, the mods I've kept updated in this repo are the only ones I care to update.
 
 ### Do I need all the packs to use the mod?
-- Nope, just install the files for the worlds you have!
+Nope, just install the files for the worlds you have!
 
 ### Are the mods compatible with luumia's no blu and no glo mods?
-- Heck yeah! I <i>highly</i> recommend using them as well!
+Heck yeah! I <i>highly</i> recommend using them as well!
 
 ### Do the lighting mods affect indoor lighting as well?
-- Nope! It's for outdoor lighting only.
+Nope! It's for outdoor lighting only.
 
 ## Previews
+
+### Twinkle Toes
+### No Blu
+### Astral Lights
+### No Blu That's Not Orange
