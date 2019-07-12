@@ -4,13 +4,13 @@ Welcome! This is a collection of lighting mods created and/or updated by [blanks
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8XEK7)
 
 ### Navigation
-    [Installation Guide](https://github.com/ts4cc/lighting-mods/tree/intialize#installation-guide)
-    [Frequently Asked Questions](https://github.com/ts4cc/lighting-mods/tree/intialize#frequently-asked-questions)
-    [Previews](https://github.com/ts4cc/lighting-mods/tree/intialize#previews)
+- [Installation Guide](https://github.com/ts4cc/lighting-mods/tree/intialize#installation-guide)
+- [Frequently Asked Questions](https://github.com/ts4cc/lighting-mods/tree/intialize#frequently-asked-questions)
+- [Previews](https://github.com/ts4cc/lighting-mods/tree/intialize#previews)
 
 ## Installation Guide
 
-<b>BACK UP YOUR FILES FIRST</b><br>
+### BACK UP YOUR FILES FIRST
 
 ### How to Download the Files
 In the upper right of this screen, there's a bright green button that says `clone or download`. Click that and select "Download as ZIP".
@@ -21,20 +21,22 @@ In the upper right of this screen, there's a bright green button that says `clon
 
 ### Installing on PC
 
+[Need to see this tutorial in action? Here ya go!](https://imgur.com/a/0DaYL0p)
+
 1. Navigate to wherever you’ve installed Sims 4 on your machine. For me, this is `C:\PROGRAM FILES (X86)\ORIGIN GAMES\THE SIMS 4`
     - Here, you’ll see some folders, but we only care about **DATA AND DELTA**. Data is where information for the base game is stored, and delta is for expansion/game/stuff packs. You’ll notice that these files correspond to the files in the lighting mod.
-    - **IMPORTANT** Before moving on to the next step, I want to emphasize how important it is that you don't copy paste full folders, only the `.world ` files you want to replace. These lighting mod downloads only contain the files needed for the worlds, but if you were to replace the `EP01` folder, you'd lose all of the build data for that expansion pack which - from what I know - will prevent your game from even opening. Just copy/paste the world files, okay? okay.
+    - **IMPORTANT** Before moving on to the next step, I want to emphasize how important it is that you don't copy/paste full folders, only the `.world ` files you want to replace. These lighting mod downloads only contain the files needed for the worlds, but if you were to replace the `EP01` folder, you'd lose all of the build data for that expansion pack which - from what I know - will prevent your game from even opening. Just copy/paste the world files, okay? okay.
 2. To install the base game files, **IN YOUR GAME FILES AND THE LIGHTING MOD FILES**, navigate to `data\shared\worlds\areas`, copy the files from the lighting mods folder, paste them into the game files folder, and replace the files when prompted.
 3. To install the DLC files, go into DELTA folder, then the folder for the EP/GP you want, then `shared/worlds/areas`, then copy/paste like you did with the base game files. Here’s a list of each ep/gp and their worlds:
-   - EP01; Get to Work - police station, sixam, hospital, secret lab, magnolia promenade
-   - EP02; Get Together -  windenburg
-   - EP03; City Living - san myshuno
-   - EP04; Cats & Dogs - brindleton bay
-   - EP06; Get Famous - del sol valley
-   - EP07; Island Living - sulani
-   - GP01; Outdoor Retreat - granite falls
-   - GP04; Vampires - forgotten hollow
-   - GP06; Jungle Adventure - el selvadorada 
+   - `EP01: Get to Work - police station, sixam, hospital, secret lab, magnolia promenade`
+   - `EP02: Get Together -  windenburg`
+   - `EP03: City Living - san myshuno`
+   - `EP04: Cats & Dogs - brindleton bay`
+   - `EP06: Get Famous - del sol valley`
+   - `EP07: Island Living - sulani`
+   - `GP01: Outdoor Retreat - granite falls`
+   - `GP04: Vampires - forgotten hollow`
+   - `GP06: Jungle Adventure - el selvadorada` 
  4. **To Uninstall** the lighting mods, just replace the lighting mod files with the ones you backed-up prior to installing (hope ya did that), or repair your game through origin. 
 
 ## Frequently Asked Questions
@@ -63,6 +65,7 @@ Nope! It's for outdoor lighting only.
 ## Previews
 
 ### Twinkle Toes
-### No Blu
-### Astral Lights
-### No Blu That's Not Orange
+[Preview album](https://imgur.com/a/poqzHSw)
+
+### No Blu / No Blu That's Not Orange
+[Preview album](https://blanksim.tumblr.com/private/183457134877/tumblr_pod3zfy1w01w0hi2t)
