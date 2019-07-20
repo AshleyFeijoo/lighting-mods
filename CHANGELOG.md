@@ -8,3 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 README.MD and CHANGELOG.MD
 [0.0.1]:https://github.com/ts4cc/lighting-mods/compare/v0.0.0...v0.0.1
+
+## [1.52.1] - 2019-7-19
+### Added
+Current version of twinkle toes and updated versions of astral lights, no blu, and no blu that's not orange
+[1.52.1]:https://github.com/ts4cc/lighting-mods/compare/v0.0.1...v1.52.1
