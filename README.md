@@ -1,6 +1,6 @@
 # TS4 Lighting Mods
 
-Welcome! This is a collection of lighting mods created and/or updated by [blanksim](https://blanksim.tumblr.com). Read through this document and if you have any questions, feel free to reach out to me on my blog!<br><br>
+Welcome! This is a collection of lighting mods created and/or updated by [softerhaze](https://softerhaze.tumblr.com). Read through this document and if you have any questions, feel free to reach out to me on my blog!<br><br>
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N8XEK7)
 
 ### Navigation
@@ -40,6 +40,10 @@ In the upper right of this screen, there's a bright green button that says `clon
  4. **To Uninstall** the lighting mods, just replace the lighting mod files with the ones you backed-up prior to installing (hope ya did that), or repair your game through origin. 
 
 ## Frequently Asked Questions
+
+### I'm on a Mac and don't have TS4 in my Applications folder! What do I do?
+Here are some helpful instructions from the delightful [goodsimaritan](https://goodsimaritan.tumblr.com/)!
+First check if you have the sims 4 icon in your applications folder in finder. If you don’t, run the sims game and right click the icon in your dock and click show in finder. Now exit your game then move the sims 4 icon in finder to the applications folder. From there, right click on the sims 4 icon and click show package contents. Then just follow the instructions listed below.
 
 ### Are the mods compatible with reshade?
 Yes! Reshade is something completely separate, and you can have both in your game at the same time.
