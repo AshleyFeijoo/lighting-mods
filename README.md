@@ -37,7 +37,9 @@ In the upper right of this screen, there's a bright green button that says `clon
    - `GP01: Outdoor Retreat - granite falls`
    - `GP04: Vampires - forgotten hollow`
    - `GP06: Jungle Adventure - el selvadorada` 
- 4. **To Uninstall** the lighting mods, just replace the lighting mod files with the ones you backed-up prior to installing (hope ya did that), or repair your game through origin. 
+   - `GP07: Strangerville`
+   - `GP08: Realm of Magic - glimmerbrook and the realm`
+ 1. **To Uninstall** the lighting mods, just replace the lighting mod files with the ones you backed-up prior to installing (hope ya did that), or repair your game through origin. 
 
 ## Frequently Asked Questions
 
