@@ -34,6 +34,7 @@ In the upper right of this screen, there's a bright green button that says `clon
    - `EP04: Cats & Dogs - brindleton bay`
    - `EP06: Get Famous - del sol valley`
    - `EP07: Island Living - sulani`
+   - `EP08: Discover University - britechester`
    - `GP01: Outdoor Retreat - granite falls`
    - `GP04: Vampires - forgotten hollow`
    - `GP06: Jungle Adventure - el selvadorada` 
