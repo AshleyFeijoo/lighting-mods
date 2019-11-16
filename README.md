@@ -52,7 +52,7 @@ First check if you have the sims 4 icon in your applications folder in finder. I
 Yes! Reshade is something completely separate, and you can have both in your game at the same time.
 
 ### Is it possible to only download a single lighting mod?
-Yes! go to [GitZip](http://kinolien.github.io/gitzip/) and put the url of the directory containing the mod you want in the upper right corner, then click the `Download` button. Here are some example links that pull the most up-to-date version of each mod.
+Yes! go to [DownGit](https://minhaskamal.github.io/DownGit/#/home) and put the url of the directory containing the mod you want in the text box, then click the `Download` button. Here are some example links that pull the most up-to-date version of each mod.
  - `astral lights: https://github.com/ts4cc/lighting-mods/tree/master/astral-lights`
  - `no blu: https://github.com/ts4cc/lighting-mods/tree/master/no-blu`
  - `no blu that's not orange: https://github.com/ts4cc/lighting-mods/tree/master/no-blu-not-orange`
